@@ -116,6 +116,7 @@ html{
 {
     background: rgb(13, 13, 37);
     padding: 20px;
+    position:sticky;
 }
 .navbar span{
     color: rgb(241, 107, 5);
